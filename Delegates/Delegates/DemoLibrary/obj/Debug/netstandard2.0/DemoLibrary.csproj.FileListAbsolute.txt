@@ -1,0 +1,9 @@
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\_dev\cSharpTutorials\Delegates\Delegates\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb

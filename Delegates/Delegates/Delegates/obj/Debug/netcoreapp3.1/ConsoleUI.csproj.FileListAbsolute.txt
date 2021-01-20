@@ -1,0 +1,16 @@
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\_dev\cSharpTutorials\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
