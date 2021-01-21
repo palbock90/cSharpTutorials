@@ -19,6 +19,7 @@ namespace Logging.Pages
 
         public void OnGet()
         {
+            _logger.LogCritical("Critical");
             _logger.LogInformation("This is our first logged message");
         }
     }
