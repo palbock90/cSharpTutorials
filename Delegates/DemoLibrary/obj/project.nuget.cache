@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FmgfWC5dG+HyyoCLuTsw4Bk1xn9bDAm41sjssPRe6FzvYXpkYN24rItdYrTuConj2cUPm2uygkAaYSqRfF6/A==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\cSharpTutorials\\Delegates\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\humle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\humle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
