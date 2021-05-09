@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6Kmv9VoeMYP86Z9CPfkgqfIwYqiZvN8T8SyabyhZ28dhfGxX4983Zal8ft4d72RV/EWgR8tJC/m5pt2AsbqQA==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\cSharpTutorials\\Versioning\\Versioning\\Versioning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\humle\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.2.0\\microsoft.aspnetcore.mvc.versioning.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
