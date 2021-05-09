@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\humle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\humle\\.nuget\\packages"
+    ]
+  }
+}
