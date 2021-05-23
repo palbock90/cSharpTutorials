@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR\\SignalR.csproj": {}
+    "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR.csproj": {}
   },
   "projects": {
-    "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR\\SignalR.csproj": {
+    "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR\\SignalR.csproj",
+        "projectUniqueName": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR.csproj",
         "projectName": "SignalR",
-        "projectPath": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR\\SignalR.csproj",
+        "projectPath": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR.csproj",
         "packagesPath": "C:\\Users\\humle\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\SignalR\\obj\\",
+        "outputPath": "C:\\_dev\\cSharpTutorials\\SignalR\\SignalR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\humle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/zcodehub/ConstructabilityEngine/_packaging/ConstructabilityEngine/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
